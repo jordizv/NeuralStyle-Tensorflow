@@ -39,7 +39,7 @@ This project was made with the following main dependencies/configuration:
 
 Below are some example results produced by this neural style transfer project. Each output image combines the content of one image with the style of another:
 
-- With around 3000 iterations
+- With around 4000 iterations
 
 | Content Image | Style Image | Generated Image |
 |----------|----------|----------|
