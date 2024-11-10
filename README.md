@@ -49,13 +49,9 @@ Below are some example results produced by this neural style transfer project. E
 
 | Content Image | Style Image | Generated Image |
 |----------|----------|----------|
-| <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/claude_monet.jpg" alt="Content Image 1" width="400" height="400"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/drop-of-water.jpg" alt="Style Image 1" width="400" height="400"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/generated_images/water_monet.jpg" alt="Result Image 1" width="400" height="400"> |
+| <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/content_image.jpg" alt="Content Image 1" width="400" height="400"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/style_image.jpg" alt="Style Image 1" width="400" height="400"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/generated_images/generated_image.jpg?raw=true" alt="Result Image 1" width="400" height="400"> |
 
-- With around x iterations
 
-| Content Image | Style Image | Generated Image |
-|----------|----------|----------|
-| <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/claude_monet.jpg" alt="Content Image 1" width="400" height="400"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/drop-of-water.jpg" alt="Style Image 1" width="400" height="400"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/generated_images/water_monet.jpg" alt="Result Image 1" width="400" height="400"> |
 
 ## How to Run the Application
 
