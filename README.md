@@ -20,9 +20,18 @@ This project implements NST using Tensorflow with GPU acceleration via CUDA, lev
 
 ## Dependencies
 This project was made with the following main dependencies/configuration:
+- **Tensorflow** version **2.10**
 - **Python** version **3.10**
 - **CUDA** version **11.2**
 - **cuDNN** version **8.1**
+
+You can try install CUDA here: [https://developer.nvidia.com/cuda-11.2.0-download-archive].
+
+And cuDNN: [https://developer.nvidia.com/rdp/cudnn-archive].
+
+Other way to do it could through an Anaconda3 environment: [https://www.anaconda.com/download].
+
+Read this tutorial to install Tensorflow, CUDA and cuDNN through Anaconda: [https://medium.com/@Rahul_Meduri/install-cuda-cudnn-in-conda-virtual-environment-and-setup-gpu-support-using-tensorflow-f8a4c942b6ea].
 
 ## Project Structure
 ```bash 
