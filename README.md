@@ -61,7 +61,8 @@ Below are some example results produced by this neural style transfer project. E
 
 | Content Image | Style Image | Generated Image |
 |----------|----------|----------|
-| <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/content_image.jpg" alt="Content Image 1" width="400" height="400"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/style_image.jpg" alt="Style Image 1" width="400" height="300"> | <img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/generated_images/generated_image.jpg?raw=true" alt="Result Image 1" width="400" height="400"> |
+| <div style="width:400px;height:400px;overflow:hidden;"><img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/content_image.jpg" alt="Content Image" style="width:100%;height:auto;"></div> | <div style="width:400px;height:300px;overflow:hidden;"><img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/images/style_image.jpg" alt="Style Image" style="width:100%;height:auto;"></div> | <div style="width:400px;height:400px;overflow:hidden;"><img src="https://github.com/Jordi17z/NeuralStyle-TF-GPU/blob/main/generated_images/generated_image.jpg?raw=true" alt="Result Image" style="width:100%;height:auto;"></div> |
+
 
 
 
