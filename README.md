@@ -1,4 +1,4 @@
-# NeuralStyle-TF-GPU
+# NeuralStyle-Tensorflow
 
 Neural Style Transfer (NST) is a technique in machine learning and compute vision that allows the fusion of two images: One representing the content and the other the style. The result is a new image (generated image) that combines the content structure with the artistic features of the style image.
 
